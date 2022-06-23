@@ -1,0 +1,12 @@
+#posts{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 20px;
+}
+.post{
+    color: rgb(196, 233, 255);
+    padding: 10px;
+    border-radius: 5px solid blue;
+    background-color: rgb(73, 10, 10);
+    text-align: center;
+}
